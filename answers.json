@@ -1,0 +1,180 @@
+{
+  "abrams.jpg": {
+    "aliases": ["abrams", "m1", "m1a1", "m1 abrams"],
+    "year": 1980
+  },
+  "Centurion.jpg": {
+    "aliases": ["centurion", "centurion mk", "centurion tank"],
+    "year": 1945
+  },
+  "Challanger_3.jpg": {
+    "aliases": ["challenger 3", "challanger 3", "challenger", "challenger iii"],
+    "year": 2023
+  },
+  "Challenger_2Tank.jpg": {
+    "aliases": ["challenger 2", "challenger ii", "challenger tank"],
+    "year": 1998
+  },
+  "Chieftain_.jpg": {
+    "aliases": ["chieftain", "chieftain mk", "fv4201"],
+    "year": 1966
+  },
+  "Cromwell.jpg": {
+    "aliases": ["cromwell", "cromwell tank"],
+    "year": 1944
+  },
+  "Crusader.jpg": {
+    "aliases": ["crusader", "crusader tank", "crusader iii"],
+    "year": 1941
+  },
+  "Matilda.jpg": {
+    "aliases": ["matilda", "matilda ii", "infantry tank mark ii"],
+    "year": 1939
+  },
+  "t34.jpg": {
+    "aliases": ["t34", "t-34", "t-34/76", "t-34/85"],
+    "year": 1940
+  },
+  "T-55.jpg": {
+    "aliases": ["t55", "t-55", "type 59"],
+    "year": 1958
+  },
+  "tiger.jpg": {
+    "aliases": ["tiger", "tiger i", "panzer vi", "panzerkampfwagen vi"],
+    "year": 1942
+  }
+  ,
+  "amx50surbase.jpg": {
+    "aliases": ["amx 50", "amx50"],
+    "year": 1950
+  },
+  "bkan.jpg": {
+    "aliases": ["bkan", "bandkanon 1"],
+    "year": 1967
+  },
+  "bradley.jpg": {
+    "aliases": ["bradley", "m2 bradley"],
+    "year": 1981
+  },
+  "bulldog.jpg": {
+    "aliases": ["m41", "bulldog", "m41 bulldog"],
+    "year": 1951
+  },
+  "char2c.jpg": {
+    "aliases": ["char 2c"],
+    "year": 1921
+  },
+  "fv4005.jpg": {
+    "aliases": ["fv4005"],
+    "year": 1951
+  },
+  "gepard.jpg": {
+    "aliases": ["gepard", "flakpanzer gepard"],
+    "year": 1976
+  },
+  "haubitz.jpg": {
+    "aliases": ["haubitze", "hummel"],
+    "year": 1943
+  },
+  "hellcat.jpg": {
+    "aliases": ["m18", "hellcat", "m18 hellcat"],
+    "year": 1943
+  },
+  "is1.jpg": {
+    "aliases": ["is-1", "is1"],
+    "year": 1943
+  },
+  "is2.jpg": {
+    "aliases": ["is-2", "is2"],
+    "year": 1944
+  },
+  "is3.jpg": {
+    "aliases": ["is-3", "is3"],
+    "year": 1945
+  },
+  "leopard1.jpg": {
+    "aliases": ["leopard 1"],
+    "year": 1965
+  },
+  "leopard2a7.jpg": {
+    "aliases": ["leopard 2a7", "leo 2a7"],
+    "year": 2014
+  },
+  "m109.jpg": {
+    "aliases": ["m109", "paladin"],
+    "year": 1963
+  },
+  "mbt70.jpg": {
+    "aliases": ["mbt-70", "kpz 70", "mbt70"],
+    "year": 1969
+  },
+  "merkava.jpg": {
+    "aliases": ["merkava", "merkava mk1"],
+    "year": 1979
+  },
+  "ostwind.jpg": {
+    "aliases": ["ostwind"],
+    "year": 1944
+  },
+  "panther.jpg": {
+    "aliases": ["panther", "panther g", "panther ausf g"],
+    "year": 1943
+  },
+  "patton.jpg": {
+    "aliases": ["patton", "m46", "m47", "m48", "m60"],
+    "year": 1950
+  },
+  "pz4.jpg": {
+    "aliases": ["panzer iv", "pz iv", "pz4", "panzer 4"],
+    "year": 1937
+  },
+  "ratel.jpg": {
+    "aliases": ["ratel 90", "ratel"],
+    "year": 1976
+  },
+  "sherman.jpg": {
+    "aliases": ["sherman", "m4", "m4a3"],
+    "year": 1942
+  },
+  "shilka.jpg": {
+    "aliases": ["shilka", "zsu-23-4"],
+    "year": 1965
+  },
+  "stchampond.jpg": {
+    "aliases": ["char b1", "b1 bis", "st chamond"],
+    "year": 1940
+  },
+  "strv103.jpg": {
+    "aliases": ["strv 103", "s-tank"],
+    "year": 1967
+  },
+  "strv122.jpg": {
+    "aliases": ["strv 122"],
+    "year": 2001
+  },
+  "t34usa.jpg": {
+    "aliases": ["t34", "t34 usa"],
+    "year": 1945
+  },
+  "t44.jpg": {
+    "aliases": ["t-44", "t44"],
+    "year": 1944
+  },
+  "t72.jpg": {
+    "aliases": ["t-72", "t72"],
+    "year": 1969
+  },
+  "t80.jpg": {
+    "aliases": ["t-80", "t80"],
+    "year": 1976
+  },
+  "t90a.jpg": {
+    "aliases": ["t-90", "t90a", "t90"],
+    "year": 1992
+  },
+  "tiger2.jpg": {
+    "aliases": ["tiger ii", "king tiger", "tiger 2"],
+    "year": 1944
+  }
+}
+
